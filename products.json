@@ -1,0 +1,59 @@
+[
+  {
+    "name": "iphone",
+    "price": 155,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 145,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone 4",
+    "price": 15,
+    "company": "apple"
+  },
+  {
+    "name": "android 10",
+    "price": 25,
+    "company": "samsung"
+  },
+  {
+    "name": "android 11",
+    "price": 35,
+    "company": "samsung"
+  },
+  {
+    "name": "macbook",
+    "price": 163,
+    "company": "apple"
+  },
+  {
+    "name": "omen",
+    "price": 152,
+    "company": "hp"
+  },
+  {
+    "name": "vostro",
+    "price": 122,
+    "company": "dell"
+  },
+  {
+    "name": "pavilion1",
+    "price": 135,
+    "company": "hp"
+  },
+  {
+    "name": "thinkpad",
+    "price": 125,
+    "company": "dell"
+  },
+  {
+    "name": "alienware",
+    "price": 1555,
+    "company": "hp"
+  }
+]
