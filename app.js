@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   res.send("hii.. i am live");
 });
 
-app.use("/api/products", products_route);
+app.use("/", products_route);
 
 const start = async () => {
   try {
