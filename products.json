@@ -2,13 +2,13 @@
   {
     "name": "iphone",
     "price": 155,
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
     "name": "iphone10",
     "price": 145,
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
@@ -19,16 +19,19 @@
   {
     "name": "android 10",
     "price": 25,
+    "featured": true,
     "company": "samsung"
   },
   {
     "name": "android 11",
     "price": 35,
+    "featured": true,
     "company": "samsung"
   },
   {
     "name": "macbook",
     "price": 163,
+    "featured": true,
     "company": "apple"
   },
   {
@@ -43,12 +46,12 @@
   },
   {
     "name": "pavilion1",
-    "price": 135,
+    "price": 1355,
     "company": "hp"
   },
   {
     "name": "thinkpad",
-    "price": 125,
+    "price": 1255,
     "company": "dell"
   },
   {
